@@ -1,0 +1,15 @@
+basePath: /api/v1
+host: 127.0.0.1:8000
+info:
+  contact:
+    email: 891453178@qq.com
+    name: 何智民
+    url: http://127.0.0.1:8000
+  description: 这是服务器演示
+  license:
+    name: 项目1.0
+    url: http://127.0.0.1:8000
+  title: 这是swagger文档
+  version: "1.0"
+paths: {}
+swagger: "2.0"

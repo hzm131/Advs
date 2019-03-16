@@ -1,0 +1,20 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "这是服务器演示",
+        "title": "这是swagger文档",
+        "contact": {
+            "name": "何智民",
+            "url": "http://127.0.0.1:8000",
+            "email": "891453178@qq.com"
+        },
+        "license": {
+            "name": "项目1.0",
+            "url": "http://127.0.0.1:8000"
+        },
+        "version": "1.0"
+    },
+    "host": "127.0.0.1:8000",
+    "basePath": "/api/v1",
+    "paths": {}
+}
